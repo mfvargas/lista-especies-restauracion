@@ -3,7 +3,7 @@
 Este repositorio contiene:
 - Un archivo Excel con nombres de especies de plantas.
 - Un programa en Python para generar un archivo HTML a partir del archivo Excel y agregarle una columna con un enlace a una búsqueda en Google de las imágenes de cada especie.
-- El archivo HTML generado, el cual puede visualizarse en [https://mfvargas.github.io/lista-especies-restauracion/](https://mfvargas.github.io/lista-especies-restauracion/).
+- El archivo HTML generado, el cual puede visualizarse en [https://mfvargas.github.io/lista-especies-restauracion/](https://mfvargas.github.io/lista-especies-restauracion/)
 
 El programa Python se ejecuta en un ambiente [Conda](https://docs.conda.io/). A continuación, se detallan los pasos para ejecutar el programa.
 
