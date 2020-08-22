@@ -28,7 +28,7 @@ $ git push
 $ conda deactivate
 ```
 
-**Creación y configuración del ambiente Conda (solo de hacerse una vez)**
+**Creación y configuración del ambiente Conda (solo debe hacerse una vez)**
 ```shell
 # Actualización de Conda
 $ conda update -n base -c defaults conda
