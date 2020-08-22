@@ -1,5 +1,9 @@
 # Lista de especies para restauración
 
+Este repositorio contiene:
+- Un archivo Excel con nombre de especies de plantas.
+- Un programa en Python para generar un archivo HTML a partir del archivo Excel y agregar una columna con un enlace a una búsqueda en Google de las imágenes de las especies.
+
 ## Creación y mantenimiento de un ambiente Conda
 ```shell
 # Actualización de Conda
