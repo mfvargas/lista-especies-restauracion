@@ -24,6 +24,9 @@ $ python lista-especies-restauracion.py
 $ git add .
 $ git commit -m "Generar nuevo archivo HTML"
 $ git push
+
+# Desactivación del ambiente Conda
+$ conda deactivate
 ```
 
 **Creación y configuración del ambiente Conda (solo de hacerse una vez)**
@@ -40,6 +43,6 @@ $ conda activate lista_especies_restauracion
 # Instalación de paquetes
 $ conda install -c anaconda xlrd
 
-# Desactivación (para el final del proceso)
+# Desactivación del ambiente
 $ conda deactivate
 ```
