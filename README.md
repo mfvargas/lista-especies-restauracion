@@ -41,6 +41,7 @@ $ conda create -n lista_especies_restauracion python=3
 $ conda activate lista_especies_restauracion
 
 # Instalación de paquetes
+# Paquete para leer archivos Excel
 $ conda install -c anaconda xlrd
 
 # Desactivación del ambiente
