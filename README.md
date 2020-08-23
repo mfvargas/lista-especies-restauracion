@@ -7,7 +7,7 @@ Este repositorio contiene:
 
 El programa Python se ejecuta en un ambiente [Conda](https://docs.conda.io/). A continuación, se detallan los pasos para ejecutar el programa.
 
-**Ejecución normal del programa**
+**Ejecución del programa**
 ```shell
 # Clonación del repositorio
 $ git clone https://github.com/mfvargas/lista-especies-restauracion.git
